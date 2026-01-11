@@ -24,7 +24,7 @@ Tên gợi ý cho repository: **`VietFood-Nutrition-Extractor`** hoặc **`VN-Fo
 
 1.  Clone project này về máy:
     ```bash
-    git clone https://github.com/username/VietFood-Nutrition-Extractor.git
+    git clone https://github.com/TungUy84/VietFood-Nutrition-Extractor.git
     cd VietFood-Nutrition-Extractor
     ```
 
